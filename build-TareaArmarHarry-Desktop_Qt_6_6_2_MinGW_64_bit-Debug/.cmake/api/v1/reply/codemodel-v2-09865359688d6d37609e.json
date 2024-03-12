@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cf74ea0dc55c3a9ef5a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TareaArmarHarry",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TareaArmarHarry::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TareaArmarHarry-Debug-05fd5b9f3621de8cb14b.json",
+					"name" : "TareaArmarHarry",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TareaArmarHarry_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TareaArmarHarry_autogen-Debug-fab76297c6fa30bab8bf.json",
+					"name" : "TareaArmarHarry_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TareaArmarHarry_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TareaArmarHarry_autogen_timestamp_deps-Debug-0daf23e7bf114abae9e7.json",
+					"name" : "TareaArmarHarry_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Llermy/Desktop/Tarea2Harry/build-TareaArmarHarry-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Llermy/Desktop/Tarea2Harry/TareaArmarHarry"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
